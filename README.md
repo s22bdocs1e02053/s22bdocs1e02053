@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm [Haseeb Iqbal]!  
 
-<!--
-**s22bdocs1e02053/s22bdocs1e02053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Tech Stack:**  
+- 🖥️ C# (.NET WinForms, ASP.NET Core)  
+- 🐍 Python (Django, Flask, ML.NET)  
+- 🌐 WordPress, PHP  
+- 📊 SQL (MySQL, SQL Server, SQLite)  
+- ⚡ JavaScript, HTML, CSS  
 
-Here are some ideas to get you started:
+🚀 **Projects:**  
+- 🏨 [Hostel Booking Web App](GitHub link)  
+- 🏥 [Clinic Management System](GitHub link)  
+- 🔮 [AI-Powered To-Do List](GitHub link)  
+- 💳 [POS System (MobileStorePOS)](GitHub link)  
+- ❤️ [Heart Disease Prediction](GitHub link)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+- 🌍 [LinkedIn][(https://www.linkedin.com/in/haseeb-iqbal-wordpress-csharp-python/)]
+- 📧 Email: s22bdocs1e02053@iub.edu.pk
